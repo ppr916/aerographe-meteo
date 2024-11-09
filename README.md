@@ -10,8 +10,8 @@ les données (METAR) sont recueillies sur les services aeroportuaires.
 On peut modifier les aéroports utilisés ici pour l'adapter
 
 Les réglages sont personnels, à savoir :
-Le rouge pour la pluie, 
-le vert pour beau temp, 
+Le rouge pour la pluie, /n
+le vert pour beau temps, 
 le jaune nuage, 
 l'orange pour averse, 
 le bleu la neige, 
